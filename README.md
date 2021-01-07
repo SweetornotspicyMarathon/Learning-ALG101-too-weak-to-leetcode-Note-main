@@ -32,7 +32,7 @@
   
 - [Unit 6 內建函式做做看](https://github.com/SYkkk55/Learning-ALG101-too-weak-to-leetcode-Note/blob/main/Unit6_code.ipynb) OK
 
-- [Unit 7 國中題目大挑戰]()
+- [Unit 7 國中題目大挑戰](https://github.com/SweetornotspicyMarathon/Learning-ALG101-too-weak-to-leetcode-Note-main/blob/main/Unit7_code.ipynb) OK
 
 - [Unit 8 初學者只管拿分，誰管你什麼效率]()
 
@@ -56,3 +56,4 @@
 
 - [[Lidemy 學習筆記]-先別急著寫 leetcode U6//實作:內建函式](https://sweetornotspicymarathon.medium.com/lidemy-%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%98-%E5%85%88%E5%88%A5%E6%80%A5%E8%91%97%E5%AF%AB-leetcode-u6-%E5%AF%A6%E4%BD%9C-%E5%85%A7%E5%BB%BA%E5%87%BD%E5%BC%8F-17dced76c823)
 
+- [[Lidemy 學習筆記]-先別急著寫 leetcode //#1008 幾個水桶解題過程](https://sweetornotspicymarathon.medium.com/lidemy-%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%98-%E5%85%88%E5%88%A5%E6%80%A5%E8%91%97%E5%AF%AB-leetcode-1008-%E5%B9%BE%E5%80%8B%E6%B0%B4%E6%A1%B6%E8%A7%A3%E9%A1%8C%E9%81%8E%E7%A8%8B-46754e2f5419)
