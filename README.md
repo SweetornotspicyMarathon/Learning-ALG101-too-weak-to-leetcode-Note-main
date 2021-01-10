@@ -34,6 +34,10 @@
 
 - [Unit 7 國中題目大挑戰](https://github.com/SweetornotspicyMarathon/Learning-ALG101-too-weak-to-leetcode-Note-main/blob/main/Unit7_code.ipynb) OK
 
+    - [Unit7_code_Project_1008_幾個水桶](https://github.com/SweetornotspicyMarathon/Learning-ALG101-too-weak-to-leetcode-Note-main/blob/main/Unit7_code_Project_1008_%E5%B9%BE%E5%80%8B%E6%B0%B4%E6%A1%B6.ipynb) OK
+    
+    - [Unit7_費氏數列](https://github.com/SweetornotspicyMarathon/Learning-ALG101-too-weak-to-leetcode-Note-main/blob/main/Unit7_%E8%B2%BB%E6%B0%8F%E6%95%B8%E5%88%97.ipynb) OK    
+
 - [Unit 8 初學者只管拿分，誰管你什麼效率]()
 
 - [Unit 9 未來的路還很漫長，你還差得遠呢]()
@@ -59,3 +63,5 @@
 - [[Lidemy 學習筆記]-先別急著寫 leetcode //#1008 幾個水桶解題過程](https://sweetornotspicymarathon.medium.com/lidemy-%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%98-%E5%85%88%E5%88%A5%E6%80%A5%E8%91%97%E5%AF%AB-leetcode-1008-%E5%B9%BE%E5%80%8B%E6%B0%B4%E6%A1%B6%E8%A7%A3%E9%A1%8C%E9%81%8E%E7%A8%8B-46754e2f5419)
 
 - [[Lidemy 學習筆記]-先別急著寫 leetcode U7//實作:NPSC題](https://sweetornotspicymarathon.medium.com/lidemy-%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%98-%E5%85%88%E5%88%A5%E6%80%A5%E8%91%97%E5%AF%AB-leetcode-u7-%E5%AF%A6%E4%BD%9C-npsc%E9%A1%8C-2d1adf97b20)
+
+- [一次搞懂費氏數列和遞迴(Python code)](https://sweetornotspicymarathon.medium.com/%E4%B8%80%E6%AC%A1%E6%90%9E%E6%87%82%E8%B2%BB%E5%BC%8F%E6%95%B8%E5%88%97%E5%92%8C%E9%81%9E%E8%BF%B4-python-code-a0c741a748da)
